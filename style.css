@@ -7,7 +7,9 @@
     box-sizing: border-box;
 }
 
-body{
+hatml, body{
+    height: 100vh;
+    width: 100vw;
     overflow: hidden;
     background-color: black;
     background-image: url(./imagens/fundo-madeira.jpg);
