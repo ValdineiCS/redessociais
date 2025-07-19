@@ -24,18 +24,15 @@ main{
 }
 
 section#celular{
-    width: 90vw;
-    max-width: 311px;
-    height: auto;
-    aspect-ratio: 311 / 627;
-    position: absolute;
+    width: 311px;
+    height: 627px;
+    position:absolute;
     background-size: contain;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-image: url(./imagens/frame-iphone.png);
     background-repeat: no-repeat;
-    background-position: center
 }
 
 #home{
